@@ -1,6 +1,8 @@
 <h1 align="left">Hi there! I'm Luis Barreto n_n</h1>
 <h3 align="left">C# .NET Developer</h3>
-<h6 align="left">Always trying to be kind♥🙌🏻</h3>
+<h5 align="left">Always trying to be kind♥🙌🏻</h3>
+
+---
 
 <a href="https://www.linkedin.com/in/barreto-exe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/barretoexe" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230A0A0A.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
