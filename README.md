@@ -12,8 +12,6 @@
 
 ---
 
-- 💼 Currently working at **Corporación F.B.K, C.A.**
-
 - 💚 **Platzi student**. I'll never stop learning.
 
 - 🎯 **Born leader.** Improving my management skills every day, in every way I can.
