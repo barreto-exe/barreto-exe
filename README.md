@@ -11,6 +11,7 @@
 
 
 ---
+- 💼 Currently working at **World Cloud Services LLC**.
 
 - 💚 **Platzi student**. I'll never stop learning.
 
@@ -20,6 +21,14 @@
 
 <h3 align="left">🛠Languages and Tools:</h3>
 <p align="left"> 
+    <a> 
+        <img 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"
+            alt="aspnet" 
+            width="40" 
+            height="40"
+        /> 
+    </a> 
     <a> 
         <img 
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" 
@@ -92,8 +101,8 @@
 <p align="left"> 
     <a> 
         <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"
-            alt="aspnet" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
+            alt="angular" 
             width="40" 
             height="40"
         /> 
@@ -102,22 +111,6 @@
         <img 
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"
             alt="xamarin" 
-            width="40" 
-            height="40"
-        /> 
-    </a> 
-    <a> 
-        <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-            alt="python" 
-            width="40" 
-            height="40"
-        /> 
-    </a> 
-    <a> 
-        <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"
-            alt="django" 
             width="40" 
             height="40"
         /> 
