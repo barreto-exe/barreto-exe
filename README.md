@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/barreto.exe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/f46pqhzolboi5liv74llgsps5" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
-- 💼 Currently working at **World Cloud Services LLC**.
+- 💼 Currently working at **Imagina Colombia**.
 
 - 💚 **Platzi student**. I'll never stop learning.
 
