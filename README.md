@@ -1,11 +1,7 @@
-<h1 align="left">Hi there! I'm Luis Barreto n_n</h1>
-<h3 align="left">C# .NET Developer</h3>
+<h1 align="left">Hi there! I'm Luis Barreto</h1>
+<h3 align="left">.NET Backend Developer</h3>
 
 <a href="https://www.linkedin.com/in/barreto-exe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/barretoexe" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230A0A0A.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.facebook.com/barreto.apk" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F1.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/barreto.exe" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://open.spotify.com/user/f46pqhzolboi5liv74llgsps5" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 - 💼 Currently working at **Imagina Colombia**.
 
@@ -16,15 +12,8 @@
 ---
 
 <h3 align="left">🛠Languages and Tools:</h3>
-<p align="left"> 
-    <a> 
-        <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"
-            alt="aspnet" 
-            width="40" 
-            height="40"
-        /> 
-    </a> 
+<div align="left"> 
+    <h4 align="left">Backend:</h4>
     <a> 
         <img 
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" 
@@ -40,31 +29,35 @@
             width="40" 
             height="40"
         /> 
-    </a> 
+    </a>
+    <p>____________</p>
+    <h4 align="left">Frontend:</h4>
     <a> 
         <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" 
-            alt="android" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" 
+            alt="react" 
             width="40" 
             height="40"
         /> 
     </a> 
     <a> 
         <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" 
-            alt="java" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
+            alt="js" 
             width="40" 
             height="40"
         /> 
     </a> 
     <a> 
         <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" 
-            alt="azure" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" 
+            alt="ts" 
             width="40" 
             height="40"
         /> 
     </a> 
+    <p>____________</p>
+    <h4 align="left">DB & Infrastructure:</h4>
     <a> 
         <img 
             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" 
@@ -89,29 +82,15 @@
             height="40"
         /> 
     </a> 
-</p>
-
-
-<h3 align="left">📥These will be in my stack soon:</h3>
-<h6 align="left">(Currently learning)</h3>
-<p align="left"> 
     <a> 
         <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"
-            alt="angular" 
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" 
+            alt="azure" 
             width="40" 
             height="40"
         /> 
     </a> 
-    <a> 
-        <img 
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"
-            alt="xamarin" 
-            width="40" 
-            height="40"
-        /> 
-    </a> 
-</p>
+</div>
 
 
 ---
